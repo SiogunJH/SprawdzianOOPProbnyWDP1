@@ -1,0 +1,15 @@
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\bin\Debug\net6.0\SprawdzianOOPProbnyWDP!.exe
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\bin\Debug\net6.0\SprawdzianOOPProbnyWDP!.deps.json
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\bin\Debug\net6.0\SprawdzianOOPProbnyWDP!.runtimeconfig.json
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\bin\Debug\net6.0\SprawdzianOOPProbnyWDP!.dll
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\bin\Debug\net6.0\ref\SprawdzianOOPProbnyWDP!.dll
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\bin\Debug\net6.0\SprawdzianOOPProbnyWDP!.pdb
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\obj\Debug\net6.0\SprawdzianOOPProbnyWDP!.csproj.AssemblyReference.cache
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\obj\Debug\net6.0\SprawdzianOOPProbnyWDP!.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\obj\Debug\net6.0\SprawdzianOOPProbnyWDP!.AssemblyInfoInputs.cache
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\obj\Debug\net6.0\SprawdzianOOPProbnyWDP!.AssemblyInfo.cs
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\obj\Debug\net6.0\SprawdzianOOPProbnyWDP!.csproj.CoreCompileInputs.cache
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\obj\Debug\net6.0\SprawdzianOOPProbnyWDP!.dll
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\obj\Debug\net6.0\ref\SprawdzianOOPProbnyWDP!.dll
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\obj\Debug\net6.0\SprawdzianOOPProbnyWDP!.pdb
+E:\Studia\Projekty\SprawdzianOOPProbnyWDP1\obj\Debug\net6.0\SprawdzianOOPProbnyWDP!.genruntimeconfig.cache
